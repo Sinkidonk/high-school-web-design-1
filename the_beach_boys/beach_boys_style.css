@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body {
+	background-color: #6A95C8;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+
+img.banner_img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+img.img_center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.text_center {
+	text-align: center;
+	text-transform:capitalize;
+}
+
+.youtube {
+	display: block;
+	width: 440;
+	height: 280;
+	margin: 0 auto;
+	border: 0;
+	padding-bottom: 20px;
+}
+
+table.table {
+	font-size:40px;
+    margin-left:auto; 
+    margin-right:auto;
+	width:790px;
+	text-align:center;
+	vertical-align:middle;
+	padding:0px;
+	
+}
+
+td, th {
+height:100px;
+}
+
+.table, td, th {
+	-moz-border-end-color: #0CC;/* border:1px solid green; */
+	background-color: #0FC;
+}
